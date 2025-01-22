@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a first year engineering and computer science student at Monash University. At the moment I'm interested in learning web development and overall progressing in my coding skills.
 
 <!--
 **TheTomato18/TheTomato18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
