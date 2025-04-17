@@ -1,5 +1,4 @@
-## Hi there 👋
-First year engineering / computer science student. Currently undertaking The Odin Project.
+Hey, there's not much to see right now but maybe in the future.
 
 <!--
 **TheTomato18/TheTomato18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
